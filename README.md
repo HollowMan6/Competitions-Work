@@ -73,7 +73,7 @@ The works of my competition or activity uploaded to this repository are for refe
 * 此比赛作品为我们组共三人的合作作品，获得二等奖
 * This competition work is the cooperation work of three people in our group, and won the second prize
 
-#### [2019年第十六届五一数学建模竞赛题目(The 16th MayDay mathematical modeling competition in 2019)](2019五一建模)
+#### [2019年第十六届五一数学建模竞赛(The 16th MayDay mathematical modeling competition in 2019)](2019五一建模)
 
 * 此比赛作品为我们组共三人的合作作品
 * This competition work is the cooperation work of three people in our group
