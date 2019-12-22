@@ -85,20 +85,20 @@ The works of my competition or activity uploaded to this repository are for refe
 
 # 不包括在此仓库中的我参与的比赛或者活动的成果作品
 
-* FNST Demo [(源代码)](https://hollowman6.github.io/StyleTrans/)是我参与的校级大学生创新创业训练计划项目：“文艺复兴”—— AI+敦煌文化 的衍生作品，同时也是我参与的2019 Google InnoCamp 人工智能[DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp)夏令营（张掖）的一个分支项目成果；[有关DeepFlying的报道](http://news.lzu.edu.cn/c/201909/59389.html)。
+* [FNST Demo](https://hollowman6.github.io/StyleTrans/)是我参与的校级大学生创新创业训练计划项目：“文艺复兴”—— AI+敦煌文化 的衍生作品，同时也是我参与的2019 Google InnoCamp 人工智能[DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp)夏令营（张掖）的一个分支项目成果；[有关DeepFlying的报道](http://news.lzu.edu.cn/c/201909/59389.html)。
 
-* Story of LZU [(源代码)](https://hollowman6.github.io/LZU/)是由我制作的兰州大学网络文化作品大赛参赛作品。
+* [Story of LZU](https://hollowman6.github.io/LZU/)是由我制作的兰州大学网络文化作品大赛参赛作品。
 
-* Texter [(源代码)](https://hollowman6.github.io/Texter/)是我的[2019 InnoCamp Hangzhou BoostMakers 暑期创新特训营 —— TensorFlow Boost](https://blackwalnut.tech/tfboost/introduce)结业项目。
+* [Texter](https://hollowman6.github.io/Texter/)是我的[2019 InnoCamp Hangzhou BoostMakers 暑期创新特训营 —— TensorFlow Boost](https://blackwalnut.tech/tfboost/introduce)结业项目。
 
 * 我们团队四人在兰州大学兰客社[人脸识别门禁系统大赛](http://lanck.lzu.edu.cn/?p=456)之中荣获 **[三等奖与1000元奖金](http://lanck.lzu.edu.cn/?p=473)**，[这个仓库](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code)是我们团队合作完成的比赛成果。
 
 # The works of the competitions or activities I participated in which are not included in this repository
 
-* FNST Demo [(Source Code)](https://hollowman6.github.io/StyleTrans/) is the my Derivative work of the University Student Innovation and Entrepreneurship Training Project: "Renaissance" - AI + Dunhuang Culture which I join in. Also it's my achivement of a sub project of 2019 Google InnoCamp AI [DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp) that I join in; [Reports concerning DeepFlying](http://news.lzu.edu.cn/c/201909/59389.html)
+* [FNST Demo](https://hollowman6.github.io/StyleTrans/) is the my Derivative work of the University Student Innovation and Entrepreneurship Training Project: "Renaissance" - AI + Dunhuang Culture which I join in. Also it's my achivement of a sub project of 2019 Google InnoCamp AI [DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp) that I join in; [Reports concerning DeepFlying](http://news.lzu.edu.cn/c/201909/59389.html)
 
-* Story of LZU [(Source Code)](https://hollowman6.github.io/LZU/)is my work in the Lanzhou University Online Cultural Competition.
+* [Story of LZU](https://hollowman6.github.io/LZU/)is my work in the Lanzhou University Online Cultural Competition.
 
-* Texter [(Source Code)](https://hollowman6.github.io/Texter/) is my completion project of [2019 innocamp Hangzhou boostmakers summer innovation special training camp -- tensorflow boost](https://blackwalnut.tech/tfboost/introduction).
+* [Texter](https://hollowman6.github.io/Texter/) is my completion project of [2019 innocamp Hangzhou boostmakers summer innovation special training camp -- tensorflow boost](https://blackwalnut.tech/tfboost/introduction).
 
-Our team won [the third prize and 1000 yuan prize](http://lanck.lzu.edu.cn/?p=473) in Lanzhou University Lanck Club *[Lanck Face Recognition Lock Competition](http://lanck.lzu.edu.cn/?P=456)*, [Here](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code) is the result of our team's cooperation.
+* Our team won [the third prize and 1000 yuan prize](http://lanck.lzu.edu.cn/?p=473) in Lanzhou University Lanck Club *[Lanck Face Recognition Lock Competition](http://lanck.lzu.edu.cn/?P=456)*, [Here](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code) is the result of our team's cooperation.
