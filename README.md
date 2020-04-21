@@ -78,6 +78,11 @@ The works of my competition or activity uploaded to this repository are for refe
 * 此比赛作品为我们组共三人的合作作品
 * This competition work is the cooperation work of three people in our group
 
+#### [2020年第一期谷歌海星计划(数字营销人才培养计划)(2020 1st Google training plan of digital marketing talents)](2020第一期谷歌海星计划)
+
+* 此课程答案为本人独立完成，答案不知道正确率，仅供参考，具体课程信息请参考文件夹下*README*
+* The answer of this course is completed by myself independently. I don't know the the answers' correct rate. It is only for reference. For specific course information, please refer to the *README* in the folder
+
 #### [普译奖全国大学生英语写作大赛(Puyi National College English writing competition)](普译奖全国大学生英语写作大赛)
 
 * [比赛官网](http://py.52jingsai.com/),2018年作品获得初赛优秀奖，决赛一等奖，2019年作品获得初赛优秀奖
