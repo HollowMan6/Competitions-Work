@@ -41,3 +41,5 @@ The answer of this course is completed by myself independently. I don't know the
   * [4.19 课件 Course Material](http://services.google.cn/fh/files/misc/day_4_study.pdf)
   * [课程测验 Quiz](https://ads.google.cn/intl/cn/forms/starfish_mini_test2/)
   * [课程测验答案 Quiz Answer](第二周牛刀小试测试题答案.pdf)
+* [总课程回顾 Total Course Review](https://mp.weixin.qq.com/s/63jkQnCt0APCs5_rag7yLQ)
+  * [终极考核 Final Exam](https://ads.google.cn/intl/ALL_cn/forms/starfish_final/)
