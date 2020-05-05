@@ -43,3 +43,4 @@ The answer of this course is completed by myself independently. I don't know the
   * [课程测验答案 Quiz Answer](第二周牛刀小试测试题答案.pdf)
 * [总课程回顾 Total Course Review](https://mp.weixin.qq.com/s/63jkQnCt0APCs5_rag7yLQ)
   * [终极考核 Final Exam](https://ads.google.cn/intl/ALL_cn/forms/starfish_final/)
+  * [终极考核答案 Final Exam Answers](终极考核.pdf)
