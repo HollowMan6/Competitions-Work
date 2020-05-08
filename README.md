@@ -83,6 +83,12 @@ The works of my competition or activity uploaded to this repository are for refe
 * 此比赛作品为我们组共三人的合作作品
 * This competition work is the cooperation work of three people in our group
 
+#### [兰州大学第五届民族宗教知识竞赛(The fifth national and religious knowledge competition of Lanzhou University)](兰州大学民族宗教知识竞赛/兰州大学第五届民族宗教知识竞赛.pdf)
+
+* [链接 Links](http://news.lzu.edu.cn/c/201905/56008.html)
+* 此比赛为兰州大学所有师生必须参加的任务。此答案为本人完成，获得100分，仅供参考。
+* This competition is a must for all teachers and students of Lanzhou University. This answer is completed by myself and gets 94 points. I don't know the right or wrong of each question. It's only for reference.
+
 #### [普译奖全国大学生英语写作大赛(Puyi National College English writing competition)](普译奖全国大学生英语写作大赛)
 
 * [比赛官网](http://py.52jingsai.com/),2018年作品获得初赛优秀奖，决赛一等奖，2019年作品获得初赛优秀奖
@@ -96,7 +102,7 @@ The works of my competition or activity uploaded to this repository are for refe
 #### [兰州大学第六届民族宗教知识竞赛(The sixth national and religious knowledge competition of Lanzhou University)](兰州大学民族宗教知识竞赛/兰州大学第六届民族宗教知识竞赛.pdf)
 
 * [链接 Links](http://tzb.lzu.edu.cn/yaowendongtai/zuixindongtai/2020/0507/123021.html)
-* 此比赛为兰州大学所有师生必须参加的任务。此答案为本人完成，获得94分，不知道各题的对错，仅供参考。
+* 此比赛为兰州大学所有师生必须参加的任务。此答案为本人完成，获得99分，不知道各题的对错，仅供参考。
 * This competition is a must for all teachers and students of Lanzhou University. This answer is completed by myself and gets 94 points. I don't know the right or wrong of each question. It's only for reference.
 
 # 不包括在此仓库中的我参与的比赛或者活动的成果作品
