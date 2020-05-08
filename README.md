@@ -93,6 +93,12 @@ The works of my competition or activity uploaded to this repository are for refe
 * 此课程答案为本人独立完成，答案不知道正确率，仅供参考，具体课程信息请参考文件夹下*README*
 * The answer of this course is completed by myself independently. I don't know the the answers' correct rate. It is only for reference. For specific course information, please refer to the *README* in the folder
 
+#### [兰州大学第六届民族宗教知识竞赛(The sixth national and religious knowledge competition of Lanzhou University)](兰州大学民族宗教知识竞赛/兰州大学第六届民族宗教知识竞赛.pdf)
+
+* [链接 Links](http://tzb.lzu.edu.cn/yaowendongtai/zuixindongtai/2020/0507/123021.html)
+* 此比赛为兰州大学所有师生必须参加的任务。此答案为本人完成，获得94分，不知道各题的对错，仅供参考。
+* This competition is a must for all teachers and students of Lanzhou University. This answer is completed by myself and gets 94 points. I don't know the right or wrong of each question. It's only for reference.
+
 # 不包括在此仓库中的我参与的比赛或者活动的成果作品
 
 * [FNST Demo](https://hollowman6.github.io/StyleTrans/)是我参与的校级大学生创新创业训练计划项目：“文艺复兴”—— AI+敦煌文化 的衍生作品，同时也是我参与的2019 Google InnoCamp 人工智能[DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp)夏令营（张掖）的一个分支项目成果；[有关DeepFlying的报道](http://news.lzu.edu.cn/c/201909/59389.html)。
