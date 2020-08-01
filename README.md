@@ -111,6 +111,11 @@ The works of my competition or activity uploaded to this repository are for refe
 * 此比赛为兰州大学所有学生必须参加的任务。此答案为本人完成。
 * This competition is a must for all students of Lanzhou University. This answer is completed by myself.
 
+#### [2020年兰州大学数学建模竞赛(Mathematical modeling competition of Lanzhou University in 2020)](2020年兰州大学数学建模竞赛)
+
+* 此比赛作品为我们组共三人的合作作品
+* This competition work is the cooperation work of three people in our group
+
 # 不包括在此仓库中的我参与的比赛或者活动的成果作品
 
 * [FNST Demo](https://hollowman6.github.io/StyleTrans/)是我参与的校级大学生创新创业训练计划项目：“文艺复兴”—— AI+敦煌文化 的衍生作品，同时也是我参与的2019 Google InnoCamp 人工智能[DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp)夏令营（张掖）的一个分支项目成果；[有关DeepFlying的报道](http://news.lzu.edu.cn/c/201909/59389.html)。
