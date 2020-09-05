@@ -122,6 +122,13 @@ The works of my competition or activity uploaded to this repository are for refe
 * 此课程答案为本人独立完成，答案不知道正确率，仅供参考
 * The answer of this course is completed by myself independently. I don't know the the answers' correct rate. It is only for reference.
 
+#### [平头哥芯片开放社区(OCC)第一期蓝牙训练营(Open Chip Community 1st round Bluetooth Training Camp)](OCC第一期蓝牙训练营)
+
+* [链接 Links](https://occ.t-head.cn/community/post/detail?id=3821246906018435072)
+* [创意描述 Idea Description](OCC第一期蓝牙训练营/README.md)
+* 获评六个最优创意之一，从而获得蓝牙开发板
+* One of the six best ideas, awarded the Bluetooth development board
+
 # 不包括在此仓库中的我参与的比赛或者活动的成果作品
 
 * [FNST Demo](https://hollowman6.github.io/StyleTrans/)是我参与的校级大学生创新创业训练计划项目：“文艺复兴”—— AI+敦煌文化 的衍生作品，同时也是我参与的2019 Google InnoCamp 人工智能[DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp)夏令营（张掖）的一个分支项目成果；[有关DeepFlying的报道](http://news.lzu.edu.cn/c/201909/59389.html)。
