@@ -125,9 +125,16 @@ The works of my competition or activity uploaded to this repository are for refe
 #### [平头哥芯片开放社区(OCC)第一期蓝牙训练营(Open Chip Community 1st round Bluetooth Training Camp)](OCC第一期蓝牙训练营)
 
 * [链接 Links](https://occ.t-head.cn/community/post/detail?id=3821246906018435072)
+* [创意投票链接 Idea Voting Links](https://occ.t-head.cn/community/createfuture/createfuturehoem?id=3824508189836709888)
 * [创意描述 Idea Description](OCC第一期蓝牙训练营/README.md)
 * 获评六个最优创意之一，从而获得蓝牙开发板
 * One of the six best ideas, awarded the Bluetooth development board
+
+#### [谷歌官方出品：海外数字营销系列课程(Google Official: Overseas Digital Marketing Series Courses)](谷歌官方出品：海外数字营销系列课程答案.pdf)
+
+* [链接 Links](https://www.icourse163.org/course/Google-1460661166)
+* 此课程答案为本人独立完成，仅供参考
+* The answer of this course is completed by myself independently. It is only for reference.
 
 # 不包括在此仓库中的我参与的比赛或者活动的成果作品
 

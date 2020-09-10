@@ -15,6 +15,8 @@
 
 (English version is down below)
 
+* [创意投票链接 Idea Voting Links](https://occ.t-head.cn/community/createfuture/createfuturehoem?id=3824508189836709888)
+
 ## 智能车管
 
 现在车载蓝牙一般都只是用来听音乐和接电话的，并没有完全发挥出蓝牙的全部功能。
@@ -33,6 +35,8 @@
 建议：可以结合电动汽车进行创意的实现
 
 # Open Chip Community 1st round Bluetooth Training Camp Idea Description
+
+[Idea Voting Links](https://occ.t-head.cn/community/createfuture/createfuturehoem?id=3824508189836709888)
 
 ## Intelligent car management
 
