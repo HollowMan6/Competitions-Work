@@ -13,6 +13,8 @@
 
 记录我的程序设计算法练习。
 
+* [Python 100例](https://www.runoob.com/python/python-100-examples.html) [Python3版](python3_100.py)
+
 * [洛谷](洛谷)
 
 * [计蒜客 程序设计竞赛体验课程](计蒜客程序设计竞赛体验课程)
@@ -24,6 +26,8 @@
 # Coding Practice
 
 Record my Coding practice answers.
+
+* [Python 100](https://www.runoob.com/python/python-100-examples.html) [in Python3](python3_100.py)
 
 * [LuoGu](洛谷)
 
