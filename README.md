@@ -128,11 +128,13 @@ The works of my competition or activity uploaded to this repository are for refe
 * 此课程答案为本人独立完成，仅供参考
 * The answer of this course is completed by myself independently. It is only for reference.
 
+#### [兰州大学网络文化作品大赛(LZU Internet Culture Works Competitions)](兰州大学网络文化作品大赛)
+
+* Story of LZU
+
 # 不包括在此仓库中的我参与的比赛或者活动的成果作品
 
 * [FNST Demo](https://hollowman6.github.io/StyleTrans/)是我参与的校级大学生创新创业训练计划项目：“文艺复兴”—— AI+敦煌文化 的衍生作品，同时也是我参与的2019 Google InnoCamp 人工智能[DeepFlying](https://github.com/dslab-deepflying/deepflying/tree/master/InnoCamp)夏令营（张掖）的一个分支项目成果；[有关DeepFlying的报道](http://news.lzu.edu.cn/c/201909/59389.html)。
-
-* [Story of LZU](https://hollowman6.github.io/LZU/)是由我制作的兰州大学网络文化作品大赛参赛作品。
 
 * [Texter](https://hollowman6.github.io/Texter/)是我的[2019 InnoCamp Hangzhou BoostMakers 暑期创新特训营 —— TensorFlow Boost](https://blackwalnut.tech/tfboost/introduce)结业项目。
 
